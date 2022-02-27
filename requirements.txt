@@ -1,4 +1,4 @@
 opencv-contrib-python==4.1.0.25
 opencv-python==4.2.0.32
-numpy==1.16.3
+numpy==1.21.0
 gunicorn==19.9.0
